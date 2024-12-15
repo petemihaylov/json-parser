@@ -37,14 +37,6 @@ src/
 └── main.tsx         # Application entry point
 ```
 
-## Technologies Used
-
-- React 18
-- TypeScript
-- Tailwind CSS
-- Lucide Icons
-- Vite
-
 ## License
 
-MIT
+[MIT](https://github.com/petemihaylov/json-parser/blob/master/LICENSE)
