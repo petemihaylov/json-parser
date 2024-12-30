@@ -1,4 +1,5 @@
 # JSON Parser
+[![Build CI](https://github.com/petemihaylov/json-parser/actions/workflows/build.yml/badge.svg)](https://github.com/petemihaylov/json-parser/actions/workflows/build.yml)
 
 A modern, responsive web application for parsing, validating, and beautifying JSON data. Built with React, TypeScript, and Tailwind CSS.
 
